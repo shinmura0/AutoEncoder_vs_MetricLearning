@@ -1,12 +1,12 @@
-# AutoEncoder_vs_MetricLearning
+# 1.AutoEncoder_vs_MetricLearning
 + AutoEncoder vs Metric Learning for Anomaly Detection
 + Dataset:[MVTEC-AD](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
 
 Click [here](https://qiita.com/shinmura0/items/5c728da8a74208c1308f) for details(Japanese).
 
-# Simple method()
+# 2.Simple method
 
-|Picture|L2-SoftmaxLoss(AUC)|Simple method(AUC|
+|Picture|L2-SoftmaxLoss(AUC)|Simple method(AUC)|
 |---|---|---|
 |Cable|0.72|0.91|
 |Leather|0.91|0.99|
