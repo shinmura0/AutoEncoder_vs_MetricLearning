@@ -14,3 +14,9 @@ Click [here](https://qiita.com/shinmura0/items/5c728da8a74208c1308f) for details
 |Capsule|0.57|0.87|
 
 Click [here](https://qiita.com/shinmura0/items/6c805498c390d5b35714) for details(Japanese).
+
+# 3.Self Supervised(class3)
+![fig](https://github.com/shinmura0/AutoEncoder_vs_MetricLearning/blob/master/fig.png "fig")
+![fig2](https://github.com/shinmura0/AutoEncoder_vs_MetricLearning/blob/master/fig2.png "fig2")
+
+Click [here](https://qiita.com/shinmura0/items/54585fccbb20cb2879fd) for details(Japanese).
